@@ -1,0 +1,9 @@
+name: DiamondHunt
+version: '${project.version}'
+main: dev.bingulhan.diamondhunt.DiamondHunt
+authors: [ BingulHan ]
+depend: [MinigameAPI]
+description: Challenge your friends with the diamond hunt
+commands:
+  hunt:
+    description: Main Command

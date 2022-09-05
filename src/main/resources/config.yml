@@ -1,0 +1,10 @@
+game:
+  min-player: 2
+  max-player: 12
+  border-size: 100
+  gool: 50
+  delay: 5
+  material: DIAMOND_ORE
+  borderamount: 10
+  game-time-minute: 5
+
